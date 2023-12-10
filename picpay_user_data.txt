@@ -1,0 +1,14 @@
+COMPLETE NAME                                     CPF            EMAIL                         BALANCE   
+JOAO CARLOS DE MEDEIROS SEVERINO                  122.893.196-86 jcmedeiros04@gmail.com        900       
+COMPLETE NAME                                     CPF            EMAIL                         BALANCE   
+PEDRO LUCAS MEDEIROS SEVERINO                     111.222.333-44 pedrol12@gmail.com            750.95    
+COMPLETE NAME                                     CPF            EMAIL                         BALANCE   
+XANDAO                                            999.888.777-66 biblical@gmail.com            900.15    
+COMPLETE NAME                                     CPF            EMAIL                         BALANCE   
+MARCOS VITOR                                      555.111.222-91 marcosvit@hotmail.com         1200      
+COMPLETE NAME                                     CPF            EMAIL                         BALANCE   
+JORGE                                             999.444.903-04 jorge@gmail.com               3400.5    
+COMPLETE NAME                                     CPF            EMAIL                         BALANCE   
+CARLA PACHECO DE MEDEIROS                         144.553.967-67 carlamed02@gmail.com          25000     
+COMPLETE NAME                                     CPF            EMAIL                         BALANCE   
+KAKAROT                                           999.444.555-11 goku@gmail.com                2000      
